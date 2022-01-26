@@ -1,0 +1,4 @@
+what is a class selector?
+if you want to change the colour of text, you must use a class selector as it allows you to change the colour of the text
+
+if you want to change the background colour however you must use an id selector. this changes background colours ONLY.
